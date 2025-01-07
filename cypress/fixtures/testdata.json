@@ -1,0 +1,16 @@
+{
+    "validcreds":{
+    "username": "robinhood",
+    "password": "letmein2019",
+    "confirmpassword": "letmein2019"},
+
+    "existingusercreds":{
+    "username": "donaldtrump"},
+    
+    "invalidcreds":{
+        "username": "abc",
+        "password": "abc",
+        "confirmpassword": "def"}
+
+
+}
